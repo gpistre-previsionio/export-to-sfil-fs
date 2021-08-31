@@ -1,5 +1,5 @@
 name: export-to-sfil-fs
-label: An exampel component to bootstrap your dev
+label: Export to SFIL Feature Store
 description: This component is a very basic one that does nothing useful but meet all the requirements for a custom components
 inputs:
 - name: src
