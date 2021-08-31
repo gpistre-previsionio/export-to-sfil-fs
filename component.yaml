@@ -1,6 +1,6 @@
 name: export-to-sfil-fs
 label: Export to SFIL Feature Store
-description: This component is a very basic one that does nothing useful but meet all the requirements for a custom components
+description: Exports the feature engineered data to the feature store used by the app and the model
 inputs:
 - name: src
   type: String
